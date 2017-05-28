@@ -1,0 +1,8 @@
+﻿Imports System.Data.Sql
+Imports System.Data.SqlClient
+Imports System.Data.SqlTypes
+
+Partial Class website_registration
+
+
+End Class

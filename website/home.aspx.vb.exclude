@@ -1,0 +1,13 @@
+﻿
+Partial Class website_home
+    Inherits System.Web.UI.Page
+
+    Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        If (IsNothing(Session("userid"))) Then
+            Response.Redirect("login.aspx")
+        Else
+            Response.Write(Convert.ToString(Session("name")))
+        End If
+
+    End Sub
+End Class

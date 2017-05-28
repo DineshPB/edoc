@@ -1,0 +1,43 @@
+﻿.count1
+{
+    font-size: 20px !important;
+}
+.bodyBody {
+                margin: 10px;
+                font-size: 1.50em;
+            }
+            
+            .divHeader {
+               text-align: right;
+                border: 1px solid;
+            }
+            .divReturnAddress {
+                text-align: left;
+                float: right;
+            }
+            .divSubject {
+                clear: both;
+                font-weight: bold;
+                padding-top: 80px;
+                margin-left: 40px;
+            }   
+            .divAdios {
+                float: right;
+                padding-top: 50px;
+                  }
+                .a4
+                {
+                width: 21cm;
+  height: 29.7cm; 
+            }
+            .a4p
+            {
+                width: 29.7cm;
+  height: 21cm; 
+            }
+             .divSubjecta {
+                clear: both;
+                font-weight: bold;
+                padding-top: 80px;
+                margin-left: 300px;
+            }  

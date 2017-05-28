@@ -1,0 +1,108 @@
+.head
+{
+	width:100%;
+	height:350px;
+	background-color:#CCC;
+}
+.box
+{
+	width:200px;
+	height:40px;
+	background-color:#666;
+	position:relative; left:10px; bottom:180px;
+}
+.box h2
+{
+	color:#FFF;
+	position:relative; left:25px; top:6px;
+}
+.head1
+{
+	width:100%;
+	height:300px;
+	background-color:#FFF;
+}
+.head1 h2
+{
+	position:relative; top:20px; left:100px;
+}
+.head1 p
+{
+	text-decoration:none;
+}
+head1 li
+{
+	display: inline-block;
+}
+.head2
+{
+	width:100%;
+	height:40px;
+	background-color:#CCC;
+}
+.box1
+{
+	width:200px;
+	height:40px;
+	background-color:#666;
+	position:relative; left:10px; top:20px;
+}
+.box1 h2
+{
+	color:#FFF;
+	position:relative; left:20px; top:6px;
+}
+.head3
+{
+	width:100%;
+	height:400px;
+	background-color:#FFF;
+}
+.head4
+{
+	width:100%;
+	height:40px;
+	background-color:#CCC;
+}
+.box2
+{
+	width:200px;
+	height:40px;
+	background-color:#666;
+	position:relative; left:10px; top:20px;
+}
+.box2 h2
+{
+	color:#FFF;
+	position:relative; left:20px; top:6px;	
+}
+.head5
+{
+	width:100%;
+	height:200px;
+	background-color:#FFF;
+}
+.head6
+{
+	width:100%;
+	height:40px;
+	background-color:#CCC;
+}
+.box3
+{
+	width:200px;
+	height:40px;
+	background-color:#666;
+	position:relative; left:10px; top:20px;
+}
+.box3 h2
+{
+	color:#FFF;
+	position:relative; left:38px; top:6px;	
+}
+.head7
+{
+	width:100%;
+	height:200px;
+	background-color:#FFF;
+}
